@@ -2,7 +2,7 @@
 
 ## General WSS information
 
-* The base endpoint is: **wss://wsapi.bhex.com/**
+* The base endpoint is: **wss://wsapi.mayaex.com/**
 * Raw streams are accessed at **/openapi/quote/ws/v1**
 
 | name | values |

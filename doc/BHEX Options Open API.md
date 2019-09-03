@@ -1,6 +1,6 @@
 # Base URL
 
-The base url of BHEX open API is: https://www.bhex.com/openapi
+The base url of BHEX open API is: https://www.mayaex.com/openapi
 
 # Public Options Endpoints
 
